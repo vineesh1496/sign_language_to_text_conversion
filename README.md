@@ -292,7 +292,7 @@ This project is open-source and available under the MIT License.
 
 For questions, issues, or contributions:
 - **Issues**: Use GitHub Issues
-- **Email**: [your-email@example.com]
+- **Email**: [vsvineeshvuppala@gmail.com]
 - **Documentation**: Check this README first
 
 ---
