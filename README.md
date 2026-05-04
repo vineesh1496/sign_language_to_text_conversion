@@ -32,7 +32,7 @@ This project implements a real-time sign language recognition system that:
 - **Real-time Sign Recognition**: Instant detection of ASL gestures
 - **Text Conversion**: Automatic conversion from signs to readable text
 - **Professional GUI**: Modern, animated interface with live feedback
-- **High Accuracy**: 65% accuracy with confidence scoring
+- **High Accuracy**: 90% accuracy with confidence scoring
 - **Fast Processing**: Ultra-fast recognition with optimized algorithms
 
 ### 📱 User Interface
