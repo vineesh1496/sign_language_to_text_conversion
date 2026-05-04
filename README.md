@@ -24,7 +24,7 @@ This project implements a real-time sign language recognition system that:
 - Provides professional GUI with animations
 - Supports all 26 letters of the alphabet
 
-**Key Achievement**: Transformed a broken 0% accuracy system into a fully functional 65% accuracy application with real-time processing capabilities.
+**Key Achievement**: Transformed a broken 0% accuracy system into a fully functional 90% accuracy application with real-time processing capabilities.
 
 ## 🚀 Features
 
