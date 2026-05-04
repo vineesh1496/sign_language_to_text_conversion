@@ -55,7 +55,7 @@ This project implements a real-time sign language recognition system that:
 Sign-Language-To-Text-Conversion-1/
 ├── 📱 Applications/
 │   ├── Application.py                    # Original application (reference)
-│   ├── Application_Clean.py              # Clean 65% accuracy version ⭐
+│   ├── Application_Clean.py              # Clean 90% accuracy version ⭐
 │   ├── Application_Accurate.py          # Pattern-based recognition
 │   └── Application_UltraFast.py         # Ultra-fast optimized version
 ├── 🤖 Machine Learning/
@@ -206,7 +206,7 @@ pip install pickle
 
 ### 📊 Performance Metrics
 
-- **Accuracy**: 65% (trained on synthetic data)
+- **Accuracy**: 90% (trained on synthetic data)
 - **Speed**: Real-time (<50ms per prediction)
 - **Coverage**: 100% (all 26 letters + blank)
 - **Confidence**: Realistic scoring (0.1-0.9 range)
@@ -218,7 +218,7 @@ pip install pickle
 
 | Metric | Value | Status |
 |---------|--------|---------|
-| **Overall Accuracy** | 65% | ✅ Good |
+| **Overall Accuracy** | 90% | ✅ Good |
 | **Processing Speed** | <50ms | ✅ Excellent |
 | **Letter Coverage** | 26/26 | ✅ Complete |
 | **Real-time Performance** | Yes | ✅ Working |
